@@ -1,5 +1,3 @@
-
-```markdown
 # 🌤️ SkySnap - Weather Forecast App
 
 SkySnap is a sleek and responsive weather application built with **React** and **Tailwind CSS**. It uses the free [Open-Meteo API](https://open-meteo.com/) (no API key required) to fetch current weather data and a 7-day forecast based on the user’s location or search query.
