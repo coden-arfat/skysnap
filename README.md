@@ -97,5 +97,5 @@ This project is licensed under the **MIT License**.
 
 - [Open-Meteo API](https://open-meteo.com/)
 - [Heroicons](https://heroicons.com/) or any custom icon sets used
-```
+
 
