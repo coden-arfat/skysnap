@@ -83,8 +83,7 @@ Your app should now be running at [http://localhost:5173](http://localhost:5173)
 
 ## 🖼️ Preview
 
->
-
+ ![SkySnap Preview](./screencapture)
 ---
 
 ## 📜 License
