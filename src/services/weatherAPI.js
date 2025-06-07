@@ -20,7 +20,7 @@ export const getCoords = async (city) => {
 
   } catch (error) {
     console.error('Error in getCoords:', error);
-    return null;
+    return ;
   }
 };
 
